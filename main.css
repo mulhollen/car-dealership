@@ -1,0 +1,40 @@
+.listing{
+    width: 300px;
+    min-width: 300px;
+    background-color: ivory;
+    border: 1px khaki solid;
+    padding: 5px;
+}
+
+.listing__make,
+.listing__model {
+    color: slategray;
+    size: 18px;
+}
+
+.listing__price {
+    color:yellowGreen; 
+    size: 16px;
+}
+
+.listing__pic {
+    margin: 5%;
+    width: 90%;
+}
+
+.listing__manufacture,
+.listing__color,
+.listing__mileage,
+.listing__engine {
+    size: 12px;
+    color: black;
+}
+
+.listing--crimson {
+    color: crimson;
+}
+
+.listing--darkOliveGreen {
+    color: darkolivegreen;
+}
+
